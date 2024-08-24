@@ -74,7 +74,7 @@ In this project, Verilog HDL was chosen because it’s used for synthesis of log
 
 ### Directions Considered
 
-![directions](https://user-images.githubusercontent.com/83152452/131366734-67c76e3c-b53d-49ca-a5ba-fb058d19d578.png)
+![directions](directions.png)
 
 The directions, M1, MT, M2, S, that is been considered for analysis of our problem is shown in the figure. And, the problem statement is explained in the figure.
 Six states, S1, S2, S3, S4, S5, S6 are taken into consideration and state diagram, state table is made using the following logic explained in the figure.
